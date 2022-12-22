@@ -5,5 +5,8 @@ This Project is based on the Library 🔗
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/WVJfjns)
-
+<div align="center"> 
+  <a href="https://ibb.co/WVJfjns">
+    <img src="https://i.ibb.co/bb9XD17/Screenshot-2022-12-22-185633.png" alt="Screenshot-2022-12-22-185633" border="0">
+  </a>
+</div>
