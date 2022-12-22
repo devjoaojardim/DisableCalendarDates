@@ -5,5 +5,5 @@ This Project is based on the Library 🔗
 
 ## Screenshots
 
-![App Screenshot](https://uploaddeimagens.com.br/imagens/0ZZYcJA)
+![App Screenshot](https://ibb.co/WVJfjns)
 
